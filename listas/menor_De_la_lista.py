@@ -1,4 +1,6 @@
-#Crear y cargar una lista con 5 enteros por teclado. Implementar un algoritmo que identifique el menor valor de la lista y la posición donde se encuentra.
+#Crear y cargar una lista con 5 enteros por teclado.
+#Implementar un algoritmo que identifique el menor valor de la lista y
+#la posición donde se encuentra.
 lista=[]
 for x in range(5):
     valor=int(input("Ingrese valor:"))

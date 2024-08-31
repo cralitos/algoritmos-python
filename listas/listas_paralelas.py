@@ -1,4 +1,7 @@
-#Desarrollar un programa que permita cargar 5 nombres de personas y sus edades respectivas. Luego de realizar la carga por teclado de todos los datos imprimir los nombres de las personas mayores de edad (mayores o iguales a 18 años)
+#Desarrollar un programa que permita cargar 5 nombres de personas
+#y sus edades respectivas. Luego de realizar la carga por teclado de
+#todos los datos imprimir los nombres de las personas mayores de edad
+#(mayores o iguales a 18 años)
 nombres=[]
 edades=[]
 for x in range(5):
