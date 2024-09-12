@@ -1,4 +1,7 @@
-#Desarrollar una función que solicite la carga del dia, mes y año y almacene dichos datos en una tupla que luego debe retornar. La segunda función a implementar debe recibir una tupla con la fecha y mostrarla por pantalla.
+#Desarrollar una función que solicite la carga del dia, mes y año y
+#almacene dichos datos en una tupla que luego debe retornar.
+#La segunda función a implementar debe recibir una tupla
+#con la fecha y mostrarla por pantalla.
 def cargar_fecha():
     dd=int(input("Ingrese numero de dia:"))
     mm=int(input("Ingrese numero de mes:"))

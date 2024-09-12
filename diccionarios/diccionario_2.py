@@ -1,4 +1,5 @@
-#Crear un diccionario que permita almacenar 5 artículos, utilizar como clave el nombre de productos y como valor el precio del mismo.
+#Crear un diccionario que permita almacenar 5 artículos,
+#utilizar como clave el nombre de productos y como valor el precio del mismo.
 #Desarrollar además las funciones de:
 #1) Imprimir en forma completa el diccionario
 #2) Imprimir solo los artículos con precio superior a 100.

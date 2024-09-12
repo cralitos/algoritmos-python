@@ -1,4 +1,6 @@
-#Confeccionar un programa que permita cargar un código de producto como clave en un diccionario. Guardar para dicha clave el nombre del producto, su precio y cantidad en stock.
+#Confeccionar un programa que permita cargar un código de producto como
+#clave en un diccionario. Guardar para dicha clave el nombre del producto,
+#su precio y cantidad en stock.
 #Implementar las siguientes actividades:
 #1) Carga de datos en el diccionario.
 #2) Listado completo de productos.
@@ -35,8 +37,6 @@ def listado_stock_cero(productos):
     for codigo in productos:
         if productos[codigo][2]==0:
             print(codigo,productos[codigo][0],productos[codigo][1],productos[codigo][2])
-
-
 
 # bloque principal
 
