@@ -7,7 +7,7 @@ root.title("Ejemplo de Message")
 mensaje = tk.Message(root, text="Este es un ejemplo de un mensaje multilínea en Tkinter.", width=200)
 
 # Configurar el ancho máximo del mensaje (en píxeles) antes de que se ajuste automáticamente
-mensaje.config(width=300)
+mensaje.config(width=52)
 
 # Configurar el fondo del mensaje
 mensaje.config(bg='lightblue')
